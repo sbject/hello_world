@@ -7,6 +7,6 @@ let's make few changes
 
 I am learning to make changes
 
-##iMac Subheader
+## iMac Subheader
 
 I am adding this from iMac
